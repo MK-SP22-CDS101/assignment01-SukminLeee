@@ -5,14 +5,7 @@ date: "`r Sys.Date()`"
 documentclass: article
 geometry: margin=1in
 fontsize: 11pt
-output:
-  pdf_document:
-    toc: false
-    df_print: kable
-    fig_caption: false
-    number_sections: true
-    dev: pdf
-    highlight: tango
+output: 
   html_document:
     theme: paper
     self_contained: true
@@ -22,11 +15,19 @@ output:
     number_sections: true
     smart: true
     dev: svg
+  pdf_document:
+    toc: false
+    df_print: kable
+    fig_caption: false
+    number_sections: true
+    dev: pdf
+    highlight: tango
 urlcolor: blue
 ---
 
 <!-- Write your Markdown below this line -->
 
-
+# Section  
+**Section 001**
 
 
