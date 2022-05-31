@@ -31,7 +31,7 @@ urlcolor: blue
 
 # Section  
 
-**Section 001**
+**Section 002**
 
 # Course Goals
 
